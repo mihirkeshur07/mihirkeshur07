@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Diamond Price Prediction**
 
-- 🌱 I’m currently learning **Python,ML**
+- 🌱 I’m currently learning **SQL, Python, ML**
 
 - 📫 How to reach me **mihirkeshur456@gmail.com**
 
