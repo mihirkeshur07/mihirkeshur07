@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mihirkeshur456@gmail.com**
 
-- ⚡ Fun fact **I am comfortable with all**
+- ⚡ Fun fact **I am comfortable with anyone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
