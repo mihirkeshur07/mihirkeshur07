@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Keshur</h1>
-<h3 align="center">A passionat Data Analytics from India</h3>
+<h3 align="center">Aspiring Passoniate Data Analytics from India</h3>
 
 - 🔭 I’m currently working on **Diamond Price Prediction**
 
